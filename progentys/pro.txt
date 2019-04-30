@@ -1,0 +1,2 @@
+git config --global user.name (to check the global user name)
+git config --global user.name "Amresh"  (to change the global user name)
